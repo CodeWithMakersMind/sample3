@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://codewithmakersmind.github.io/sample3/",
-  "homepage": "https://makersmind.in/testreact/",
+  "homepage": "https://makersmind.in/test-production/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
