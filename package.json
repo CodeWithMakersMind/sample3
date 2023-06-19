@@ -1,7 +1,6 @@
 {
   "name": "first-app",
-  "homepage": "./",
-  "homepage": "https://www.mmworkspace.com/test/",
+  "homepage": "https://codewithmakersmind.github.io/sample3/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
