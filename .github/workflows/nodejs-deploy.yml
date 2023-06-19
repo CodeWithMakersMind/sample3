@@ -4,7 +4,7 @@ name: Node.js deploy using actions
 on:
   push:
     branches: [ "staging" ]
-  pull_requst:
+  pull_request:
     branches: [ "staging" ]
   
 jobs:
